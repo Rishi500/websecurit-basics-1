@@ -1,3 +1,4 @@
 # CS 253 Assignment 1 – Journey to the Dark Side 🌘
 
-Assignment instructions: https://web.stanford.edu/class/cs253/assign1
+Course solutions for my cs 253 online course.
+Note: Please do not copy the solutions. it is much fun solving them by yourself. :)
